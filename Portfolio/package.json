@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://RiasGremoryHSDXD.github.io/WebsitePortfolio/",
+  "homepage": "https://RiasGremoryHSDXD.github.io/TemporaryWebsitePortfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +15,7 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.49.3",
     "@tailwindcss/vite": "^4.0.12",
+    "axios": "^1.8.4",
     "react": "^19.0.0",
     "react-chatbot-kit": "^2.2.2",
     "react-dom": "^19.0.0",
