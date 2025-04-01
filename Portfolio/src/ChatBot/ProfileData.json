@@ -1,0 +1,89 @@
+{
+    "About":
+    {
+        "full_name": "Tagupa, James Christopher C.",
+        "birth_day": "January 31 2004",
+        "location": "Cagayan de Oro, Northern Mindanao, Philippines",
+        "phone_number": "+63 917 123 4567"
+    },
+    "education": 
+    {
+        "degree": "Bachelor of Science in Information Technology",
+        "institution": "USTP",
+        "details": "Relevant coursework: Web Development, UI/UX Design, Database Systems, etc."
+    },
+    "ProfessionalSummary":
+    {
+        "professional_summary": "Innovative web developer with a strong background in web development and design. Passionate about creating visually appealing and user-friendly websites. Eager to contribute technical expertise and creative skills to drive digital excellence."
+    },
+    "Skills":
+    {
+        "technical": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "ReactJS",
+            "Python",
+            "Java",
+            "PHP",
+            "SQL"
+        ],
+        "soft": [
+            "Communication",
+            "Teamwork",
+            "Problem Solving",
+            "Creativity"
+        ]
+    },
+    "Project":
+    {
+        "project_one":
+        {
+            "name": "Grammar Picker",
+            "language": "Pygame in python",
+            "description": "Two-player game for elementary students, where players answer grammar-related questions from four choices.",
+            "url": "https://github.com/RiasGremoryHSDXD/Grammar-Pick"
+        },
+        "project_two":
+        {
+            "name": "LibraryManagementSystem",
+            "language": "Swing in Java & MySQL",
+            "description": "Java desktop app for managing books, borrowing, and returns efficiently for administrators and users.",
+            "url": "https://github.com/RiasGremoryHSDXD/LibraryManagementSystem"
+        },
+        "project_three":
+        {
+            "name": "Automated-GradeManagementSystem",
+            "language": "C",
+            "description": "program that manages student records, validates inputs, and computes grades efficiently..",
+            "url": "https://github.com/RiasGremoryHSDXD/Automated-GradeManagementSystem"
+        },
+        "project_four":
+        {
+            "name": "USTP_IT_DEPARTMENT_WEBSITE",
+            "language": "HTML & CSS",
+            "description": "A platform providing essential resources, updates, and information for students and faculty.",
+            "url": "https://github.com/RiasGremoryHSDXD/USTP_IT_DEPARTMENT_WEBSITE?tab=readme-ov-file"
+        }
+    },
+    "Contact":
+    {
+        "email": "tagupa.jameschristopher@gmail.com",
+        "contact": "+63 917 123 4567",
+        "area_server": "Philippine & USA"
+    },
+    "Strengths": 
+    [
+        "Strong problem-solving abilities",
+        "Excellent communication skills",
+        "Highly adaptable and quick to learn new technologies",
+        "Creative and innovative in design and development"
+    ],
+    "Weaknesses": 
+    [
+        "Sometimes overly critical of my own work",
+        "Can be a perfectionist which may slow down progress",
+        "Occasionally hesitant to delegate tasks",
+        "Needs to improve time management under tight deadlines"
+    ]
+}
