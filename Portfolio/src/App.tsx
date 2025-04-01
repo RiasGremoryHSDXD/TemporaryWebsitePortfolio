@@ -6,10 +6,10 @@ import ChatBot from "./ChatBot/ChatBot.tsx"
 function App() {
   return (
     <div>
-      <Header/>
-      <Main/>
-      <Footer/>
-      <ChatBot/>
+        <Header/>
+        <Main/>
+        <Footer/>
+        <ChatBot/>
     </div>
   )
 }
