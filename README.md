@@ -5,7 +5,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io/)
 
-A modern, responsive web portfolio with a comments system powered by Supabase. Showcase your projects, skills, and experience with a clean and professional interface.
+A modern, responsive web portfolio with  a comments system powered by Supabase. Showcase your projects, skills, and experience with a clean and professional interface.
 
 ## Features
 
